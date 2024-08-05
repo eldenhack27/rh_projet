@@ -11,6 +11,9 @@
                         <li><a href="#">Tableau de bord</a></li>
                         <li><a href="../candidats/candidat.php">candidats</a></li>
                         <li><a href="../postes/poste.php">Postes</a></li>
+                        <li><a href="../departement/departement.php">Departement</a></li>
+                        <li><a href="../candidatures/candidature.php">Candidatures</a></li>
+                        <li><a href="../employers/employer.php">Employers</a></li>
                     </ul>
                 </div>
             </div>
